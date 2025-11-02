@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bai-wenchao
-- 👀 I’m interested in graph algorithms and software development based on Rust
 - 🌱 I’m currently working towards Ph.D degree in Computer Science
-- 💞️ I’m looking to collaborate on contests of Codeforces
 - 📫 How to reach me: wenchao.bai.chn at gmail.com
 
 <!---
